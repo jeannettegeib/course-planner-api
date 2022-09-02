@@ -77,56 +77,40 @@
       "order": 3,
       "name": "Combining Like Terms and Properties",
       "multiday": false
+    },
+    {
+      "id": 9,
+      "courseId": 1,
+      "order": 6,
+      "name": "Why We Read Literature: Perspectives in Novel--Part 2",
+      "multiday": true
+    },
+    {
+      "id": 10,
+      "courseId": 2,
+      "order": 4,
+      "name": "Solving Equations",
+      "multiday": false
+    },
+    {
+      "id": 11,
+      "courseId": 2,
+      "order": 5,
+      "name": "Measures of Central Tendency",
+      "multiday": false
+    },
+    {
+      "id": 12,
+      "courseId": 2,
+      "order": 6,
+      "name": "Solving Inequalities",
+      "multiday": false
     }
   ],
   "studentCourses": [
-    {
-      "courseId": 1,
-      "studentId": 1,
-      "targetDate": "2022-09-16",
-      "id": 1,
-      "course": {
-        "id": 1,
-        "name": "English 9 CP"
-      }
-    }
+    
   ],
   "studentLessons": [
-    {
-      "studentId": 1,
-      "lessonId": 1,
-      "dueDate": "2022-08-30T19:54:09.023Z",
-      "complete": true,
-      "id": 1
-    },
-    {
-      "studentId": 1,
-      "lessonId": 2,
-      "dueDate": "2022-08-31T19:54:09.023Z",
-      "complete": true,
-      "id": 2
-    },
-    {
-      "studentId": 1,
-      "lessonId": 3,
-      "dueDate": "2022-09-01T19:54:09.023Z",
-      "complete": true,
-      "id": 3
-    },
-    {
-      "studentId": 1,
-      "lessonId": 4,
-      "dueDate": "2022-09-02T19:54:09.023Z",
-      "complete": true,
-      "id": 4
-    },
-    {
-      "studentId": 1,
-      "lessonId": 5,
-      "courseId": "1",
-      "dueDate": "2022-09-15T18:50:37.118Z",
-      "complete": false,
-      "id": 5
-    }
+    
   ]
 }
